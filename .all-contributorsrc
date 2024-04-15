@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "hiiroo",
+      "name": "Ali Mert Ceylan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323068?v=4",
+      "profile": "https://alimertceylan.com",
+      "contributions": [
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "SE3314-Lab-Routine",
+  "projectOwner": "hiiroo"
+}
