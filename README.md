@@ -1,8 +1,8 @@
 This repository contains Lab Routine document for the **SE3314 Software Construction** course. 
 
->[!INFO] See `CONTRIBUTING.md` document for contributing to document.
+> See `CONTRIBUTING.md` document for contributing to document.
 
->[!WARNING] All markdown documents in this repository use Obsidian style markdown. Therefore, require Obsidian to **view**/**edit**/**export-pdf** efficiently.
+> All markdown documents in this repository use Obsidian style markdown. Therefore, require Obsidian to **view**/**edit**/**export-pdf** efficiently.
 ## Content
 
 - Maven Project Creation
